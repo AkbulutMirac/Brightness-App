@@ -1,0 +1,1 @@
+This app allows you to change the brightness of your main display. It saves the last brightness level so that it shows the previous brightness you set, even after a restart. You can close the app once you've set the brightness. It's written in Python and packaged with PyInstaller to create an .exe file that works on any Windows machine.
